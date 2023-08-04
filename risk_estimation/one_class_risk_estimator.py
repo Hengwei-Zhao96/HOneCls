@@ -38,7 +38,10 @@ class OneClassRiskEstimator(nn.Module):
         else:
             NotImplemented
 
-        positive_n_loss = unlabeled_loss * positive_mask
+        if self.loss == 'sigmoid':
+            positive_n_loss = unlabeled_loss * positive_mask
+        elif self.loss == 'bce':
+            positive_n_loss = bce_loss(pred, positive_mask, positive=False) * positive_mask
         unlabeled_n_loss = unlabeled_loss * unlabeled_mask
 
         estimated_p_loss = positive_p_loss.sum() / positive_mask.sum()
