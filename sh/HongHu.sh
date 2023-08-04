@@ -1,0 +1,16 @@
+python main.py -p 0.3769 -c 4 -d 'HongHu' -g '0' -r "OneClassRiskEstimator"
+python main.py -p 0.1317 -c 6 -d 'HongHu' -g '0' -r "OneClassRiskEstimator"
+python main.py -p 0.0544 -c 7 -d 'HongHu' -g '0' -r "OneClassRiskEstimator"
+python main.py -p 0.0319 -c 9 -d 'HongHu' -g '0' -r "OneClassRiskEstimator"
+python main.py -p 0.0367 -c 10 -d 'HongHu' -g '0' -r "OneClassRiskEstimator"
+python main.py -p 0.0194 -c 11 -d 'HongHu' -g '0' -r "OneClassRiskEstimator"
+python main.py -p 0.0102 -c 18 -d 'HongHu' -g '0' -r "OneClassRiskEstimator"
+python main.py -p 0.0119 -c 19 -d 'HongHu' -g '0' -r "OneClassRiskEstimator"
+python main.py -p 0.3769 -c 4 -d 'HongHu' -g '0' -r 'absNegative'
+python main.py -p 0.1317 -c 6 -d 'HongHu' -g '0' -r 'absNegative'
+python main.py -p 0.0544 -c 7 -d 'HongHu' -g '0' -r 'absNegative'
+python main.py -p 0.0319 -c 9 -d 'HongHu' -g '0' -r 'absNegative'
+python main.py -p 0.0367 -c 10 -d 'HongHu' -g '0' -r 'absNegative'
+python main.py -p 0.0194 -c 11 -d 'HongHu' -g '0' -r 'absNegative'
+python main.py -p 0.0102 -c 18 -d 'HongHu' -g '0' -r 'absNegative'
+python main.py -p 0.0119 -c 19 -d 'HongHu' -g '0' -r 'absNegative'

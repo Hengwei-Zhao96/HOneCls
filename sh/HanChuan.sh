@@ -1,0 +1,14 @@
+python main.py -p 0.1213 -c 1 -d 'HanChuan' -g '3' -r "OneClassRiskEstimator"
+python main.py -p 0.0617 -c 2 -d 'HanChuan' -g '3' -r "OneClassRiskEstimator"
+python main.py -p 0.0279 -c 3 -d 'HanChuan' -g '3' -r "OneClassRiskEstimator"
+python main.py -p 0.0033 -c 5 -d 'HanChuan' -g '3' -r "OneClassRiskEstimator"
+python main.py -p 0.0123 -c 6 -d 'HanChuan' -g '3' -r "OneClassRiskEstimator"
+python main.py -p 0.0503 -c 14 -d 'HanChuan' -g '3' -r "OneClassRiskEstimator"
+python main.py -p 0.2045 -c 16 -d 'HanChuan' -g '3' -r "OneClassRiskEstimator"
+python main.py -p 0.1213 -c 1 -d 'HanChuan' -g '3' -r 'absNegative'
+python main.py -p 0.0617 -c 2 -d 'HanChuan' -g '3' -r 'absNegative'
+python main.py -p 0.0279 -c 3 -d 'HanChuan' -g '3' -r 'absNegative'
+python main.py -p 0.0033 -c 5 -d 'HanChuan' -g '3' -r 'absNegative'
+python main.py -p 0.0123 -c 6 -d 'HanChuan' -g '3' -r 'absNegative'
+python main.py -p 0.0503 -c 14 -d 'HanChuan' -g '3' -r 'absNegative'
+python main.py -p 0.2045 -c 16 -d 'HanChuan' -g '3' -r 'absNegative'

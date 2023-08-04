@@ -1,0 +1,10 @@
+python main.py -p 0.1569 -c 1 -d 'LongKou' -g '2' -r "OneClassRiskEstimator"
+python main.py -p 0.0138 -c 3 -d 'LongKou' -g '2' -r "OneClassRiskEstimator"
+python main.py -p 0.2873 -c 4 -d 'LongKou' -g '2' -r "OneClassRiskEstimator"
+python main.py -p 0.0539 -c 6 -d 'LongKou' -g '2' -r "OneClassRiskEstimator"
+python main.py -p 0.3048 -c 7 -d 'LongKou' -g '2' -r "OneClassRiskEstimator"
+python main.py -p 0.1569 -c 1 -d 'LongKou' -g '2' -r 'absNegative'
+python main.py -p 0.0138 -c 3 -d 'LongKou' -g '2' -r 'absNegative'
+python main.py -p 0.2873 -c 4 -d 'LongKou' -g '2' -r 'absNegative'
+python main.py -p 0.0539 -c 6 -d 'LongKou' -g '2' -r 'absNegative'
+python main.py -p 0.3048 -c 7 -d 'LongKou' -g '2' -r 'absNegative'
