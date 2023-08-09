@@ -54,9 +54,9 @@ If you use absNegative or One-class Risk Estimation in your research, please cit
     journal={IEEE Transactions on Geoscience and Remote Sensing}, 
     title={One-Class Risk Estimation for One-Class Hyperspectral Image Classification}, 
     year={2023},
-    volume={},
+    volume={61},
     number={},
-    pages={1-1},
+    pages={1-17},
     doi={10.1109/TGRS.2023.3292929}}
 ```
 abgNegative and One-class Risk Estimation can be used for academic purposes only, and any commercial use is prohibited.
