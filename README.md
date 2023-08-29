@@ -49,6 +49,16 @@ If you use absNegative or One-class Risk Estimation in your research, please cit
     author = {Hengwei Zhao and Yanfei Zhong and Xinyu Wang and Xin Hu and Chang Luo and Mark Boitt and Rami Piiroinen and Liangpei Zhang and Janne Heiskanen and Petri Pellikka}
 }
 
+@INPROCEEDINGS{thonecls,
+    author={Zhao, Hengwei and Wang, Xinyu and Li, Jingtao and Zhong, Yanfei},
+    booktitle={2023 IEEE/CVF International Conference on Computer Vision (ICCV)}, 
+    title={Class Prior-Free Positive-Unlabeled Learning with Taylor Variational Loss for Hyperspectral Remote Sensing Imagery}, 
+    year={2023},
+    volume={},
+    number={},
+    pages={},
+    doi={}}
+
 @ARTICLE{10174705,
     author={Zhao, Hengwei and Zhong, Yanfei and Wang, Xinyu and Shu, Hong},
     journal={IEEE Transactions on Geoscience and Remote Sensing}, 
