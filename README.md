@@ -46,8 +46,7 @@ If you use absNegative or One-class Risk Estimation in your research, please cit
     issn = {0924-2716},
     doi = {https://doi.org/10.1016/j.isprsjprs.2022.03.005},
     url = {https://www.sciencedirect.com/science/article/pii/S0924271622000715},
-    author = {Hengwei Zhao and Yanfei Zhong and Xinyu Wang and Xin Hu and Chang Luo and Mark Boitt and Rami Piiroinen and Liangpei Zhang and Janne Heiskanen and Petri Pellikka}
-}
+    author = {Hengwei Zhao and Yanfei Zhong and Xinyu Wang and Xin Hu and Chang Luo and Mark Boitt and Rami Piiroinen and Liangpei Zhang and Janne Heiskanen and Petri Pellikka}}
 
 @InProceedings{Zhao_2023_ICCV,
     author    = {Zhao, Hengwei and Wang, Xinyu and Li, Jingtao and Zhong, Yanfei},
@@ -55,8 +54,7 @@ If you use absNegative or One-class Risk Estimation in your research, please cit
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
     month     = {October},
     year      = {2023},
-    pages     = {16827-16836}
-}
+    pages     = {16827-16836}}
 
 @ARTICLE{10174705,
     author={Zhao, Hengwei and Zhong, Yanfei and Wang, Xinyu and Shu, Hong},
